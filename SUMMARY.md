@@ -16,6 +16,7 @@
   * [Stanford University](data-science/stanford-university.md)
 * [Data Analytics](data-analytics-cirriculum/README.md)
   * [University of Chicago](data-analytics-cirriculum/university-of-chicago.md)
+  * [University Of Dayton](data-analytics-cirriculum/university-of-dayton.md)
   * [Rutgers](data-analytics-cirriculum/rutgers.md)
   * [North Carolina State University](data-analytics-cirriculum/north-carolina-state-university.md)
   * [Northwestern](data-analytics-cirriculum/northwestern.md)

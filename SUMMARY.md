@@ -2,6 +2,7 @@
 
 * [Data Science and Data Analytics](README.md)
 * [Data Science](data-science/README.md)
+  * [Syracuse University](data-science/syracuse-university.md)
   * [Rutgers](data-science/rutgers.md)
   * [University of Southern California](data-science/university-of-southern-california.md)
   * [University of Pennsylvania](data-science/university-of-pennsylvania.md)
@@ -15,6 +16,7 @@
   * [Stanford University](data-science/stanford-university.md)
 * [Data Analytics](data-analytics-cirriculum/README.md)
   * [University of Chicago](data-analytics-cirriculum/university-of-chicago.md)
+  * [Rutgers](data-analytics-cirriculum/rutgers.md)
   * [North Carolina State University](data-analytics-cirriculum/north-carolina-state-university.md)
   * [Northwestern](data-analytics-cirriculum/northwestern.md)
 

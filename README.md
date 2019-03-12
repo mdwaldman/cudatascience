@@ -1,2 +1,2 @@
-# Data Science Cirriculum
+# Data Science and Data Analytics
 

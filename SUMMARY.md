@@ -2,6 +2,7 @@
 
 * [Data Science and Data Analytics](README.md)
 * [Data Science](data-science/README.md)
+  * [University of Virginia](data-science/university-of-virginia.md)
   * [Syracuse University](data-science/syracuse-university.md)
   * [Rutgers](data-science/rutgers.md)
   * [University of Southern California](data-science/university-of-southern-california.md)
@@ -15,6 +16,7 @@
   * [Columbia University](data-science/columbia-university.md)
   * [Stanford University](data-science/stanford-university.md)
 * [Data Analytics](data-analytics-cirriculum/README.md)
+  * [University of San Francisco](data-analytics-cirriculum/university-of-san-francisco.md)
   * [Southern Methodist University](data-analytics-cirriculum/southern-methodist-university.md)
   * [GeorgeTown University](data-analytics-cirriculum/georgetown-university.md)
   * [Massachusetts Institute of Technology](data-analytics-cirriculum/massachusetts-institute-of-technology.md)

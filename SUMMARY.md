@@ -15,6 +15,7 @@
   * [Columbia University](data-science/columbia-university.md)
   * [Stanford University](data-science/stanford-university.md)
 * [Data Analytics](data-analytics-cirriculum/README.md)
+  * [GeorgeTown University](data-analytics-cirriculum/georgetown-university.md)
   * [Massachusetts Institute of Technology](data-analytics-cirriculum/massachusetts-institute-of-technology.md)
   * [University of Chicago](data-analytics-cirriculum/university-of-chicago.md)
   * [Boston University](data-analytics-cirriculum/boston-university.md)

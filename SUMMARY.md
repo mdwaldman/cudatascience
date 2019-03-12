@@ -10,6 +10,7 @@
   * [University of Minnesota- Twin Cities](data-science/university-of-minnesota-twin-cities.md)
   * [New York University](data-science/new-york-university.md)
   * [University of Washington](data-science/university-of-washington.md)
+  * [University of Central Florida](data-science/university-of-central-florida.md)
   * [Georgia Institute of Technology](data-science/georgia-institute-of-technology.md)
   * [Carnegie Mellon University](data-science/carnegie-mellon-university.md)
   * [Berkeley](data-science/berkeley.md)

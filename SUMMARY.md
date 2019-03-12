@@ -2,6 +2,7 @@
 
 * [Data Science and Data Analytics](README.md)
 * [Data Science](data-science/README.md)
+  * [University of Washington](data-science/university-of-washington.md)
   * [Georgia Institute of Technology](data-science/georgia-institute-of-technology.md)
   * [Carnegie Mellon University](data-science/carnegie-mellon-university.md)
   * [Berkeley](data-science/berkeley.md)

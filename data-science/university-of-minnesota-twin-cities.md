@@ -2,7 +2,11 @@
 
 [Master of Science in Data Science](https://datascience.umn.edu/current-students/curriculum)
 
+## About 
 
+The M.S. in Data Science program provides a strong foundation in the science of Big Data and its analysis by gathering in a single program the knowledge, expertise, and educational assets in data collection and management, data analytics, scalable data-driven pattern discovery, and the fundamental concepts behind these methods. Students completing this regular 2 year \(31 credits\) master's program will learn the state-of-the-art methods for treating Big Data, be exposed to the cutting edge methods and theory forming the basis for the next generation of Big Data technology, and will complete a project demonstrating that they can use the fundamental concepts to design innovative methods for new application areas arising from business, government, security, medicine, biology, physical sciences, and the environment.
+
+The Post-Baccalaureate Certificate is a rigorous program consisting of 4 courses \(12 credits\) providing a solid conceptual foundation to Data Science. This program is designed for those who want to learn the fundamentals of Big Data analytics as part time students while working full time, as well as those who are looking for a short 1 year program as full-time students.
 
 ## Curriculum
 

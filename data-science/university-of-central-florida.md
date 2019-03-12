@@ -17,8 +17,8 @@
         <p>COP 3330 Object-Oriented Programming</p>
         <p>COP 3503C Computer Science II</p>
         <p>COP 4710 Database Systems</p>
-        <p>STA 2023 Statistical Methods I Programming experience or STA 4164 Statistical
-          Methods II</p>
+        <p>STA 2023 Statistical Methods I Programming experience or</p>
+        <p>STA 4164 Statistical Methods II</p>
         <p>Required Courses: 24 Credit Hours All students are required to take the
           following courses, for a total of 24 credit hours.</p>
         <p></p>

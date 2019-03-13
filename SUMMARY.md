@@ -2,6 +2,8 @@
 
 * [Data Science and Data Analytics](README.md)
 * [Data Science](data-science/README.md)
+  * [Berkeley Online](data-science/berkeley.md)
+  * [Berkeley BS](data-science/berkeley-bs.md)
   * [Colorado State University](data-science/colorado-state-university.md)
   * [Calvin College](data-science/calvin-college.md)
   * [DePaul University](data-science/depaul-university.md)
@@ -46,7 +48,6 @@
   * [Carnegie Mellon University - \(Systems\) Master of Information Systems](data-science/carnegie-mellon-university-master-of-information-systems.md)
   * [Carnegie Mellon University](data-science/carnegie-mellon-university-1.md)
   * [Carnegie Mellon University](data-science/carnegie-mellon-university.md)
-  * [Berkeley Online](data-science/berkeley.md)
   * [Columbia University](data-science/columbia-university.md)
   * [Stanford University](data-science/stanford-university.md)
 * [Data Analytics](data-analytics-cirriculum/README.md)

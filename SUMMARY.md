@@ -21,6 +21,7 @@
   * [University of Southern California](data-science/university-of-southern-california.md)
   * [University of Tennessee Chattanooga](data-science/university-of-tennessee-chattanooga.md)
   * [University of Virginia](data-science/university-of-virginia.md)
+  * [University of Wisconsin-River Falls](data-science/university-of-wisconsin-river-falls.md)
   * [University of Washington](data-science/university-of-washington.md)
   * [Carnegie Mellon Map of Things](data-science/carnegie-mellon-map-of-things.md)
   * [Carnegie Mellon University - IT track](data-science/carnegie-mellon-university-it-track.md)

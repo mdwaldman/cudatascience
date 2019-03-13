@@ -9,6 +9,7 @@
   * [Georgia Institute of Technology](data-science/georgia-institute-of-technology.md)
   * [George Mason University](data-science/george-mason-university.md)
   * [Iowa State University](data-science/iowa-state-university.md)
+  * [Lebanon Valley College](data-science/lebanon-valley-college.md)
   * [New York University](data-science/new-york-university.md)
   * [Northeastern University](data-science/northeastern-university.md)
   * [Rutgers](data-science/rutgers.md)

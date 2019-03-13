@@ -2,6 +2,7 @@
 
 * [Data Science and Data Analytics](README.md)
 * [Data Science](data-science/README.md)
+  * [Berkeley Overview](data-science/berkeley-overview.md)
   * [Berkeley Online](data-science/berkeley.md)
   * [Berkeley BS](data-science/berkeley-bs.md)
   * [Colorado State University](data-science/colorado-state-university.md)

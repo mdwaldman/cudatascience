@@ -4,7 +4,7 @@ description: Master of Science in Data Science
 
 # Columbia University
 
-## Master of Science in Data Science
+## [Master of Science in Data Science](https://datascience.columbia.edu/master-of-science-in-data-science)
 
 The Master of Science in Data Science allows students to apply data science techniques to their field of interest, building on four foundational courses offered in our [Certification of Professional Achievement in Data Sciences program](http://datascience.columbia.edu/certification). Our students have the opportunity to conduct original research, included in a capstone project, and interact with our industry partners and faculty. Students may also choose an elective track focused on entrepreneurship or a subject area covered by one of our [eight centers](http://datascience.columbia.edu/data-science-centers).
 

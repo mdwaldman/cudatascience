@@ -10,6 +10,7 @@
   * [George Mason University](data-science/george-mason-university.md)
   * [Iowa State University](data-science/iowa-state-university.md)
   * [Marquette University](data-science/marquette-university.md)
+  * [Montana Tech](data-science/montana-tech.md)
   * [Loyola University of Maryland](data-science/loyola-university-of-maryland.md)
   * [Lebanon Valley College](data-science/lebanon-valley-college.md)
   * [New York University](data-science/new-york-university.md)

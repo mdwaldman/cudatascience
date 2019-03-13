@@ -24,6 +24,7 @@
   * [University of Central Florida](data-science/university-of-central-florida.md)
   * [University of Central Arkansas](data-science/university-of-central-arkansas.md)
   * [University of Denver](data-science/university-of-denver.md)
+  * [University of Evansville](data-science/university-of-evansville.md)
   * [University of Michigan](data-science/university-of-michigan.md)
   * [University of Minnesota- Twin Cities](data-science/university-of-minnesota-twin-cities.md)
   * [University of New Hampshire](data-science/university-of-new-hampshire.md)

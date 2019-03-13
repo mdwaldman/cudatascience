@@ -16,6 +16,7 @@
   * [University of Washington](data-science/university-of-washington.md)
   * [University of Central Florida](data-science/university-of-central-florida.md)
   * [Georgia Institute of Technology](data-science/georgia-institute-of-technology.md)
+  * [Carnegie Mellon Map of Things](data-science/carnegie-mellon-map-of-things.md)
   * [Carnegie Mellon University - IT track](data-science/carnegie-mellon-university-it-track.md)
   * [Carnegie Mellon University - \(Systems\) Master of Information Systems](data-science/carnegie-mellon-university-master-of-information-systems.md)
   * [Carnegie Mellon University](data-science/carnegie-mellon-university-1.md)

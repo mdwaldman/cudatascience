@@ -2,6 +2,7 @@
 
 * [Data Science and Data Analytics](README.md)
 * [Data Science](data-science/README.md)
+  * [University of Oklahoma](data-science/university-of-oklahoma.md)
   * [University of Virginia](data-science/university-of-virginia.md)
   * [Syracuse University](data-science/syracuse-university.md)
   * [Rutgers](data-science/rutgers.md)

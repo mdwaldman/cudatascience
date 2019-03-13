@@ -4,6 +4,8 @@ description: Online Master of Information and Data Science (MIDS)
 
 # Berkeley
 
+[curriculum](https://datascience.berkeley.edu/academics/curriculum/)
+
 [https://datascience.berkeley.edu/academics/](https://datascience.berkeley.edu/academics/)
 
 ![](../.gitbook/assets/screen-shot-2019-03-12-at-12.06.38-pm.png)

@@ -1,4 +1,4 @@
-# Carnegie Mellon University - Master of Information Systems
+# Carnegie Mellon University - \(Systems\) Master of Information Systems
 
 \*\*\*\*[**Master of Information Systems Management: Business Intelligence & Data Analytics**](https://www.heinz.cmu.edu/programs/information-systems-management-master/bida)\*\*\*\*
 

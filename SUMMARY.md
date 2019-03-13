@@ -2,6 +2,7 @@
 
 * [Data Science and Data Analytics](README.md)
 * [Data Science](data-science/README.md)
+  * [Calvin College](data-science/calvin-college.md)
   * [DePaul University](data-science/depaul-university.md)
   * [Georgia Institute of Technology](data-science/georgia-institute-of-technology.md)
   * [New York University](data-science/new-york-university.md)

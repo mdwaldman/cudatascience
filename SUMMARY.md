@@ -23,6 +23,7 @@
   * [University of Virginia](data-science/university-of-virginia.md)
   * [University of Wisconsin-River Falls](data-science/university-of-wisconsin-river-falls.md)
   * [University of Washington](data-science/university-of-washington.md)
+  * [Yale University](data-science/yale-university.md)
   * [Carnegie Mellon Map of Things](data-science/carnegie-mellon-map-of-things.md)
   * [Carnegie Mellon University - IT track](data-science/carnegie-mellon-university-it-track.md)
   * [Carnegie Mellon University - \(Systems\) Master of Information Systems](data-science/carnegie-mellon-university-master-of-information-systems.md)

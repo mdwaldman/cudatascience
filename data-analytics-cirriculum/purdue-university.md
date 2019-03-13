@@ -2,8 +2,7 @@
 
 \*\*\*\*[**Master of Science in Business Analytics and Information Management**](https://krannert.purdue.edu/masters/programs/business-analytics-and-information-management/)\*\*\*\*
 
-  
-Select LanguageAfrikaansAlbanianAmharicArabicArmenianAzerbaijaniBasqueBelarusianBengaliBosnianBulgarianCatalanCebuanoChichewaChinese \(Simplified\)Chinese \(Traditional\)CorsicanCroatianCzechDanishDutchEsperantoEstonianFilipinoFinnishFrenchFrisianGalicianGeorgianGermanGreekGujaratiHaitian CreoleHausaHawaiianHebrewHindiHmongHungarianIcelandicIgboIndonesianIrishItalianJapaneseJavaneseKannadaKazakhKhmerKoreanKurdish \(Kurmanji\)KyrgyzLaoLatinLatvianLithuanianLuxembourgishMacedonianMalagasyMalayMalayalamMalteseMaoriMarathiMongolianMyanmar \(Burmese\)NepaliNorwegianPashtoPersianPolishPortuguesePunjabiRomanianRussianSamoanScots GaelicSerbianSesothoShonaSindhiSinhalaSlovakSlovenianSomaliSpanishSundaneseSwahiliSwedishTajikTamilTeluguThaiTurkishUkrainianUrduUzbekVietnameseWelshXhosaYiddishYorubaZulu  Powered by [![Google Translate](https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png)Translate](https://translate.google.com/)![Krannert Masters in Business Analytics and Information Management ranking 2018](https://krannert.purdue.edu/masters/programs/business-analytics-and-information-management/images/ranking-badge-BAIM2-ribbon.jpg)
+ [![Google Translate](https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png)Translate](https://translate.google.com/)![Krannert Masters in Business Analytics and Information Management ranking 2018](https://krannert.purdue.edu/masters/programs/business-analytics-and-information-management/images/ranking-badge-BAIM2-ribbon.jpg)
 
 **New Center on Campus:** Krannert is now home to the [Business Information and Analytics Center](http://www.krannert.purdue.edu/centers/business-information-and-analytics-center/).
 

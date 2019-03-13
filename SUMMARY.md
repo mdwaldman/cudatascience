@@ -18,6 +18,7 @@
   * [Stanford University](data-science/stanford-university.md)
 * [Data Analytics](data-analytics-cirriculum/README.md)
   * [University of San Francisco](data-analytics-cirriculum/university-of-san-francisco.md)
+  * [The University of Texas at Austin](data-analytics-cirriculum/the-university-of-texas-at-austin.md)
   * [Kennesaw](data-analytics-cirriculum/kennesaw.md)
   * [Southern Methodist University](data-analytics-cirriculum/southern-methodist-university.md)
   * [Oklahoma State University](data-analytics-cirriculum/oklahoma-state-universit.md)

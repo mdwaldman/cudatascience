@@ -5,6 +5,7 @@
   * [Colorado State University](data-science/colorado-state-university.md)
   * [Calvin College](data-science/calvin-college.md)
   * [DePaul University](data-science/depaul-university.md)
+  * [Drexel University](data-science/drexel-university.md)
   * [Georgia Institute of Technology](data-science/georgia-institute-of-technology.md)
   * [New York University](data-science/new-york-university.md)
   * [Northeastern University](data-science/northeastern-university.md)

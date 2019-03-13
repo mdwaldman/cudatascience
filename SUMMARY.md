@@ -19,7 +19,7 @@
 * [Data Analytics](data-analytics-cirriculum/README.md)
   * [University of San Francisco](data-analytics-cirriculum/university-of-san-francisco.md)
   * [Southern Methodist University](data-analytics-cirriculum/southern-methodist-university.md)
-  * [Oklahoma State Universit](data-analytics-cirriculum/oklahoma-state-universit.md)
+  * [Oklahoma State University](data-analytics-cirriculum/oklahoma-state-universit.md)
   * [GeorgeTown University](data-analytics-cirriculum/georgetown-university.md)
   * [Massachusetts Institute of Technology](data-analytics-cirriculum/massachusetts-institute-of-technology.md)
   * [University of Chicago](data-analytics-cirriculum/university-of-chicago.md)

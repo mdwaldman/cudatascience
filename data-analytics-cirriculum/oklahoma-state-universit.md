@@ -1,4 +1,4 @@
-# Oklahoma State Universit
+# Oklahoma State University
 
 \*\*\*\*[**M.S. in Business Analytics \(MSBAN\)**](https://business.okstate.edu/analytics/msban/)\*\*\*\*
 

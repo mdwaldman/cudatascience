@@ -21,6 +21,7 @@
   * [Columbia University](data-science/columbia-university.md)
   * [Stanford University](data-science/stanford-university.md)
 * [Data Analytics](data-analytics-cirriculum/README.md)
+  * [University of Iowa](data-analytics-cirriculum/university-of-iowa.md)
   * [Purdue University](data-analytics-cirriculum/purdue-university.md)
   * [University of San Francisco](data-analytics-cirriculum/university-of-san-francisco.md)
   * [The University of Texas at Austin](data-analytics-cirriculum/the-university-of-texas-at-austin.md)

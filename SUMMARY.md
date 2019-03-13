@@ -22,6 +22,7 @@
   * [Temple University](data-science/temple-university.md)
   * [University of California San Diego](data-science/university-of-california-san-diego.md)
   * [University of Central Florida](data-science/university-of-central-florida.md)
+  * [University of Central Arkansas](data-science/university-of-central-arkansas.md)
   * [University of Denver](data-science/university-of-denver.md)
   * [University of Michigan](data-science/university-of-michigan.md)
   * [University of Minnesota- Twin Cities](data-science/university-of-minnesota-twin-cities.md)

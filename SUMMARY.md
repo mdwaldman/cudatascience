@@ -3,6 +3,7 @@
 * [Data Science and Data Analytics](README.md)
 * [Data Science](data-science/README.md)
   * [University of Oklahoma](data-science/university-of-oklahoma.md)
+  * [University of Denver](data-science/university-of-denver.md)
   * [DePaul University](data-science/depaul-university.md)
   * [University of Rochester](data-science/university-of-rochester.md)
   * [University of Virginia](data-science/university-of-virginia.md)

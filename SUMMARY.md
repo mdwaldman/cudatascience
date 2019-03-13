@@ -26,6 +26,7 @@
   * [University of Denver](data-science/university-of-denver.md)
   * [University of Evansville](data-science/university-of-evansville.md)
   * [University of Houston-Downtown](data-science/university-of-houston-downtown.md)
+  * [University of Massachusetts Dartmouth](data-science/university-of-massachusetts-dartmouth.md)
   * [University of Michigan](data-science/university-of-michigan.md)
   * [University of Minnesota- Twin Cities](data-science/university-of-minnesota-twin-cities.md)
   * [University of New Hampshire](data-science/university-of-new-hampshire.md)

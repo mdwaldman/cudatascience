@@ -7,6 +7,7 @@
   * [DePaul University](data-science/depaul-university.md)
   * [Drexel University](data-science/drexel-university.md)
   * [Georgia Institute of Technology](data-science/georgia-institute-of-technology.md)
+  * [George Mason University](data-science/george-mason-university.md)
   * [New York University](data-science/new-york-university.md)
   * [Northeastern University](data-science/northeastern-university.md)
   * [Rutgers](data-science/rutgers.md)

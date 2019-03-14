@@ -2,6 +2,25 @@
 
 [Master of Science in Analytics](https://www.mccormick.northwestern.edu/analytics/curriculum/)
 
+#### [Data Science at Northwestern](https://www.sps.northwestern.edu/masters/data-science/#Data%20Science%20Curriculum)
+
+Northwestern University offers two master’s degree programs in analytics that prepare students to meet the growing demand for data-driven leadership and problem solving. In addition to the online MSDS program, Northwestern's McCormick School of Engineering offers a full-time on-campus program.
+
+**MS IN DATA SCIENCE** 
+
+* Offered by Northwestern University School of Professional Studies
+* Online, part-time program
+* Builds expertise in advanced analytics, data mining, database management, financial analysis, predictive modeling, quantitative reasoning and web analytics, as well as advanced communication and leadership
+
+**MS IN ANALYTICS**
+
+* Offered by Northwestern's McCormick School of Engineering and Applied Science
+* 15-month, full-time, on-campus program
+* Integrates data science, information technology and business applications into three areas: predictive \(forecasting\), descriptive \(business intelligence and data mining\) and prescriptive \(optimization and simulation\)
+
+[Back to Top](https://www.sps.northwestern.edu/masters/data-science/#top)  
+
+
 ## CURRICULUM <a id="page-title"></a>
 
 The Master of Science in Analytics program is a full-time, on-campus program. Students in our program move through the coursework together as a cohort. The program spans five consecutive quarters, starting with a first fall quarter and ending with a second fall quarter. The first three quarters \(Fall, Winter, Spring\) are spent on campus taking required courses and working on an overarching practicum project in collaboration with fellow cohort members. During the 4th quarter \(Summer\) students spend a minimum of 10 weeks, fulfilling an internship within the industry. There is no tuition charged during this quarter. Finally, during the 5th quarter, the second fall quarter, Masters students will work on a capstone project, attend the last of their required course work, as well as attend an elective course of their choosing. 

@@ -1,4 +1,4 @@
-# The University of Texas at Austin
+# The University of Texas at Austin Business
 
 \*\*\*\*[**Master of Science in Business Analytics**](https://www.mccombs.utexas.edu/Master-of-Science-in-Business-Analytics)\*\*\*\*
 

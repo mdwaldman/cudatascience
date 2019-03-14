@@ -1,5 +1,7 @@
 # Berkeley Division of Data Science
 
+[Berkeley Data Science](https://data.berkeley.edu/)
+
 ## [Berkeley inaugurates Division of Data Science and Information, connecting teaching and research from all corners of campus](https://news.berkeley.edu/2018/11/01/berkeley-inaugurates-division-of-data-science-and-information-connecting-teaching-and-research-from-all-corners-of-campus/)
 
 ## [UC Berkeley’s Fastest-Growing Class Is Data Science 101](https://www.wsj.com/articles/at-berkeley-its-big-data-on-campus-1541066401?mod=e2tw)

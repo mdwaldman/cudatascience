@@ -1,6 +1,10 @@
-# DePaul University
+# DePaul University \(online\)
 
 [Data Science](https://www.cdm.depaul.edu/academics/Pages/MS-in-Data-Science.aspx)
+
+
+
+The MS in Data Science \(formerly the MS in Predictive Analytics\) teaches students advanced technical and analytical skills to meet the challenge of big data analytics. The degree prepares the next generation of leaders in data science who can analyze massive amounts of data and extract information from complex data sources. The curriculum emphasizes technical proficiency and practical experience, and provides students with advanced skills in data mining, statistics, machine learning, and big data processing.
 
 
 

@@ -6,6 +6,15 @@
 
 \*\*\*\*
 
+Admission to the full-time program is selective. We will not review incomplete applications. Qualified applicants should meet the following criteria:
+
+* An undergraduate degree in a quantitative field from an accredited institution
+* University coursework or professional experience in computer programming is required; knowledge of C, C++ or Java \(with focus on object-oriented programming\) is preferred. Those admitted to the program are strongly encouraged to learn Python prior to beginning the program. Coursework in in Linear Algebra and Statistics is strongly recommended.
+* Coursework in Linear Algebra and Statistics is strongly recommended for a competitive application
+* Strong communication skills and motivation
+* Upper-division GPA of 3.0 or higher
+* No work experience required, though students with work, leadership, and/or professional development experience are encouraged to apply
+
 Current technology generates a massive amount of data \("Big Data"\) from business interactions and social exchanges. The Big Data technology and services market represents a fast-growing, multibillion-dollar worldwide opportunity. In fact, a recent International Data Corporation \(IDC\) forecast shows that this market will increase at about [six times the growth rate of the overall information technology market](https://www.idc.com/prodserv/4Pillars/bigdata) through 2018. 
 
 McCombs' Master of Science in Business Analytics \(MSBA\) is a 10 month program that will show you how to harness vast amounts of data and use it to build better business. The MSBA offers you:

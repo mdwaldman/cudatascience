@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Data Science and Data Analytics](README.md)
+* [Curriculum Guidelines for Undergraduate Programs in Data Science](curriculum-guidelines-for-undergraduate-programs-in-data-science.md)
 * [Data Science](data-science/README.md)
   * [University of Wisconsin Online](data-science/university-of-wisconsin-online.md)
   * [American University](data-science/american-university.md)
@@ -8,6 +9,7 @@
   * [Berkeley Overview](data-science/berkeley-overview.md)
   * [Berkeley Online](data-science/berkeley.md)
   * [Berkeley BS](data-science/berkeley-bs.md)
+  * [Brown University](data-science/brown-university.md)
   * [Colorado State University](data-science/colorado-state-university.md)
   * [Calvin College](data-science/calvin-college.md)
   * [DePaul University \(online\)](data-science/depaul-university.md)
@@ -78,6 +80,7 @@
   * [University Of Dayton](data-analytics-cirriculum/university-of-dayton.md)
   * [Rutgers](data-analytics-cirriculum/rutgers.md)
   * [North Carolina State University](data-analytics-cirriculum/north-carolina-state-university.md)
+  * [Wayne State University \(like Leeds\)](data-analytics-cirriculum/wayne-state-university-like-leeds.md)
   * [Northwestern](data-analytics-cirriculum/northwestern.md)
 
 ## asds

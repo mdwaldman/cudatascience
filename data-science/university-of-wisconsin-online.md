@@ -4,6 +4,12 @@
 
 
 
+Note not up to date with Spark
+
+
+
+
+
 he [UW Master of Science in Data Science](https://datasciencedegree.wisconsin.edu/data-science-program/) program offers a rigorous curriculum grounded in computer science, math and statistics, management, and communication. Because courses are [fully online](https://datasciencedegree.wisconsin.edu/getting-started/data-science-online-learning/), all course content, from multimedia lectures and e-learning tools to homework assignments, will be delivered to you through the program’s online learning management system. You can study and do homework whenever and wherever it’s convenient for you.
 
 You are required to take each of the 12 Data Science courses in the curriculum. Each course is three credits. For semester schedules and a list of upcoming courses, please visit our [Course Schedule page](https://datasciencedegree.wisconsin.edu/current-data-science-students/course-schedule/).

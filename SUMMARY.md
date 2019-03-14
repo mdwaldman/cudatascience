@@ -29,6 +29,7 @@
   * [Smith College](data-science/smith-college.md)
   * [Syracuse University](data-science/syracuse-university.md)
   * [Temple University](data-science/temple-university.md)
+  * [Tufts University](data-science/tufts-university.md)
   * [University of California San Diego](data-science/university-of-california-san-diego.md)
   * [University of Central Florida](data-science/university-of-central-florida.md)
   * [University of Central Arkansas](data-science/university-of-central-arkansas.md)

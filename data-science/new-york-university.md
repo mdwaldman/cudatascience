@@ -2,6 +2,10 @@
 
 [Master of Science in Data Science](https://cds.nyu.edu/academics/ms-in-data-science/)
 
+Note New York University is just getting the BS program together
+
+[link](https://cds.nyu.edu/)
+
 
 
 ## MS in Data Science Curriculum

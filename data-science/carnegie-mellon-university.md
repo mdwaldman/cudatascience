@@ -2,7 +2,7 @@
 description: Master of Computational Data Science
 ---
 
-# Carnegie Mellon University
+# Carnegie Mellon -Computational Data Science
 
 [Master of Computational Data Science](https://mcds.cs.cmu.edu/learn-us-overview)
 

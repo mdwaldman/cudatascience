@@ -49,7 +49,7 @@
   * [Carnegie Mellon University - IT track](data-science/carnegie-mellon-university-it-track.md)
   * [Carnegie Mellon University - \(Systems\) Master of Information Systems](data-science/carnegie-mellon-university-master-of-information-systems.md)
   * [Carnegie Mellon University](data-science/carnegie-mellon-university-1.md)
-  * [Carnegie Mellon University](data-science/carnegie-mellon-university.md)
+  * [Carnegie Mellon -Computational Data Science](data-science/carnegie-mellon-university.md)
   * [Columbia University](data-science/columbia-university.md)
   * [Stanford University](data-science/stanford-university.md)
 * [Data Analytics](data-analytics-cirriculum/README.md)

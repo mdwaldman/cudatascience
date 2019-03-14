@@ -2,6 +2,8 @@
 
 \*\*\*\*[**MBA: Business Analytics Track**](https://www.cmu.edu/tepper/programs/mba/curriculum/)\*\*\*\*
 
+\*\*\*\*[**business analytics track pdf of classes**](https://www.cmu.edu/tepper/programs/mba/assets/docs/track-business-analytics-18-19.pdf)\*\*\*\*
+
 \*\*\*\*
 
 ## MBA Curriculum and Courses

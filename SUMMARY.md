@@ -54,6 +54,7 @@
   * [Stanford University](data-science/stanford-university.md)
 * [Data Analytics](data-analytics-cirriculum/README.md)
   * [University of Iowa](data-analytics-cirriculum/university-of-iowa.md)
+  * [Syracuse Business Analytics](data-analytics-cirriculum/syracuse-business-analytics.md)
   * [University of Colorado Leeds Bus Analytics](data-analytics-cirriculum/university-of-colorado-leeds-bus-analytics.md)
   * [Purdue University](data-analytics-cirriculum/purdue-university.md)
   * [University of San Francisco](data-analytics-cirriculum/university-of-san-francisco.md)

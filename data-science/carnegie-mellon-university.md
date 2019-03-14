@@ -6,6 +6,8 @@ description: Master of Computational Data Science
 
 [Master of Computational Data Science](https://mcds.cs.cmu.edu/learn-us-overview)
 
+[map pdf](https://mcds.cs.cmu.edu/sites/default/files/mcdscoursemapv3.pdf)
+
 The MCDS program is designed for students with a degree in computer science, computer engineering or a related degree from a highly ranked university. After completing the common MCDS core courses in the first semester, you can pick from three concentrations: Systems, Analytics, and Human-Centered Data Science. All three require the same total number of course credits split among required core courses, electives, data science seminar and capstone courses. The degree can also be earned two different ways, depending on the length of time you spend working on it. Regardless of the timing option, all MCDS students must complete a minimum of 144 units to graduate.
 
 To earn an MCDS degree, you must pass courses in the core curriculum, the MCDS seminar, a concentration area and electives. You must also complete a capstone project in which you work on a research project at CMU or on an industry-sponsored project. In total, you will complete 144 eligible units of study, including eight 12-unit courses, two 12-unit seminar courses and one 24-unit capstone course. You must take a certain number of core courses depending on your chosen area of concentration. The remainder of the 12-unit courses with course numbers 600 or greater can be electives chosen from the SCS course catalog. Any additional non-prerequisite units taken beyond the 144 units are also considered electives.

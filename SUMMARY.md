@@ -12,6 +12,7 @@
   * [New York Univeristy Center for Data Science](masters-of-data-science/new-york-univeristy-center-for-data-science.md)
   * [Northwestern Data Science](masters-of-data-science/northwestern-data-science.md)
   * [Stanford](masters-of-data-science/stanfort.md)
+  * [University of California LA - DS](masters-of-data-science/university-of-california-la-ds.md)
   * [University of Chicago Data Science](masters-of-data-science/university-of-chicago-data-science.md)
   * [University of Pennsylvania](masters-of-data-science/university-of-pennsylvania.md)
   * [University of Virginia - DS](masters-of-data-science/university-of-virginia-ds.md)

@@ -44,7 +44,15 @@ Applications are now being accepted for the first cohort, which will start in Se
 
 For more information about the MS in Business Analytics, please visit [http://ieor.columbia.edu/ba](http://ieor.columbia.edu/ba).
 
+## Admissions
 
+The Master of Science program in Business Analytics \(MSBA\), offered by the IEOR Department in partnership with Columbia Business School, is the newest program between Columbia University's Fu Foundation School of Engineering and Applied Science and Columbia Business School. It reflects the next logical step in the long standing close collaboration between the IEOR Department at the Engineering School, the Decision, Risk and Operations \(DRO\) and the Marketing Divisions at the Business School.
+
+This program was formed and structured following many interactions with corporations, alumni and students. It emphasizes on developing new insights and understanding of business performance using data, statistical and quantitative analysis, and explanatory and predictive modeling to help make actionable decisions and to improve business operations. Students pursuing this degree program are provided with a rigorous exposure to optimization and stochastic modeling, and a deep coverage of applications in the areas of analytics. The role of analytics has grown increasingly critical in business, healthcare, government, and many other sectors of the economy.  
+
+It is a 36-credit degree STEM-designated program \(equivalent of 12 three-credit courses\), assuming adequate preparation in probability and statistics, with students taking at least six courses within the IEOR department, four to six at the Business School. The remaining courses, if any, can be taken from the School of Engineering, the School of International and Public Affairs, the Law School, or the Departments of Economics, Mathematics and Statistics.
+
+Graduates from this program are expected to assume positions as data analysts and data scientists, business analysts in logistics, supply chain, operations, or revenue management departments of large corporations, and as financial analysts in various functions \(e.g. risk management\) of investment banks, hedge funds, credit-card companies, and insurance.
 
 ## [Curriculum](https://msba.engineering.columbia.edu/content/curriculum)
 

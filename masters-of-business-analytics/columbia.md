@@ -99,9 +99,151 @@ Students may complete 1 or 2 concentrations to fulfill the remaining credits for
 
 ### **2. Marketing Analytics: select at least \(9 credits\) from the following:**
 
+\*\*\*\*
+
+|  |  |  |
+| :--- | :--- | :--- |
+| DROM | B8122 | Game-Theoretic Business Strategy |
+| DROM | B8123 | Demand and Supply Analytics |
+| DROM | B8131 | Sports Analytics |
+| DROM | B8510 | Managerial Negotiations  |
+| DROM | B9122 | Computing for Business Research |
+| DROM | B9127 | Online Marketplaces |
+| IEOR | E4407 | Game Theoretic Models of Operations |
+| IEOR | E4506 | Designing Digital Operating Models |
+| IEOR | E4577 | OR Methods in Marketing \(1.5\) |
+| IEOR | E4601 | Dynamic Pricing and Revenue Management |
+| MKTG | B8607 | Strategic Consumer Insights |
+| MKTG | B8617 | Marketing Research & Analytics |
+| MKTG | B8679 | Digital Marketing |
+| MKTG | B8683 | Marketing Models |
+| MRKT | B7676 | Developing QI: Responsive Decision Making Through Quantitative Intuition |
+| MRKT | B8608 | New Product Development |
+| MRKT | B8696 | Data Driven Dollars |
+| MRKT | B9613 | Mathematical Models in Marketing |
+| MRKT | B9651 | Marketing Analytics |
+
+###  
+
 ### **3. Healthcare Analytics: select at least \(9 credits\) from the following:**
 
+\*\*\*\*
+
+| DROM | B8107 | Service Operations |
+| :--- | :--- | :--- |
+
+
+| DROM | B8128 | Healthcare Investment and Entrepreneurship HCIT and Services |
+| :--- | :--- | :--- |
+
+
+| DROM | B8132 | Digital Healthcare Startups |
+| :--- | :--- | :--- |
+
+
+| DROM | B8510 | Managerial Negotiations |
+| :--- | :--- | :--- |
+
+
+| DROM | B8832 | US Healthcare System |
+| :--- | :--- | :--- |
+
+
+| IEOR | E4000 | Production and Operations Management |
+| :--- | :--- | :--- |
+
+
+| IEOR | E4405 | Scheduling |
+| :--- | :--- | :--- |
+
+
+| IEOR | E4520 | Applied Systems Engineering |
+| :--- | :--- | :--- |
+
+
+| IEOR | E4521 | Systems Engineering Tools and Methods \(OR\) |
+| :--- | :--- | :--- |
+
+
+| IEOR | E4540 | Data Mining for Engineers |
+| :--- | :--- | :--- |
+
+
+| IEOR | E4505 | Operations Research in Public Policy |
+| :--- | :--- | :--- |
+
+
+| IEOR | E4507 | Healthcare Operations Management |
+| :--- | :--- | :--- |
+
+
+| MRKT | B7676 | Developing QI: Responsive Decision Making Through Quantitative Intuition |
+| :--- | :--- | :--- |
+
+
 ### **4. Analytics Algorithms and Methodology: select at least \(9 credits\) from the following:**
+
+\*\*\*\*
+
+| COMS | W4111 | Introduction to Databases |
+| :--- | :--- | :--- |
+
+
+| CSOR | W4231 | Analysis of Algorithms |
+| :--- | :--- | :--- |
+
+
+| DROM | B8111 | Analytics for Business Research |
+| :--- | :--- | :--- |
+
+
+| DROM | B8127 | Big Immersion Seminar - Big Data \(1.5 pts\) |
+| :--- | :--- | :--- |
+
+
+| DROM | B8130 | Applied Statistics and Data Analytics |
+| :--- | :--- | :--- |
+
+
+| DROM | B8510 | Managerial Negotiations |
+| :--- | :--- | :--- |
+
+
+| IEOR | E4008 | Computational Discrete Optimization |
+| :--- | :--- | :--- |
+
+
+| IEOR | E4525 | Machine Learning for Financial Engineering & Operations Research |
+| :--- | :--- | :--- |
+
+
+| IEOR | E4407 | Game Theoretic Models of Operations |
+| :--- | :--- | :--- |
+
+
+| IEOR | E4418 | Transportation Analytics and Logistics |
+| :--- | :--- | :--- |
+
+
+| IEOR | E4526 | Analytics on the Cloud |
+| :--- | :--- | :--- |
+
+
+| IEOR | E4540 | Data Mining for Engineers |
+| :--- | :--- | :--- |
+
+
+| MRKT | B9160 | Applied Multivariate Statistics |
+| :--- | :--- | :--- |
+
+
+| MRKT | B9608 | Experimental Design & Analysis for Behavioral Research |
+| :--- | :--- | :--- |
+
+
+| MRKT | B9616 | Bayesian Modeling & Computation |
+| :--- | :--- | :--- |
+
 
 \*\*\*\*
 

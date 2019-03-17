@@ -3,6 +3,8 @@
 * [Data Science and Data Analytics](README.md)
 * [Curriculum Guidelines for Undergraduate Programs in Data Science](curriculum-guidelines-for-undergraduate-programs-in-data-science.md)
 * [Masters of Data Science](masters-of-data-science/README.md)
+  * [Berkeley MS Data Science Online](masters-of-data-science/berkeley-ms-data-science-online.md)
+  * [Untitled](masters-of-data-science/untitled.md)
   * [Columbia](masters-of-data-science/columbia.md)
   * [Harvard Data Science](masters-of-data-science/harvard-data-science.md)
   * [Massachusetts Institute of Technology Data Scienc](masters-of-data-science/massachusetts-institute-of-technology-data-scienc.md)

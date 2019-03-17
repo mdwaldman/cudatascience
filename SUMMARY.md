@@ -23,6 +23,7 @@
   * [Massachusetts Institute of Technology Business  Analytics](masters-of-business-analytics/massachusetts-institute-of-technology-business-analytics.md)
   * [Stanford](masters-of-business-analytics/stanford.md)
   * [Northwestern Business Analytics](masters-of-business-analytics/northwestern-business-analytics.md)
+  * [University of Califorina LA Anderson](masters-of-business-analytics/university-of-califorina-la-anderson.md)
   * [University of Chicago \(Booth\) - Business Analytics](masters-of-business-analytics/university-of-chicago-booth-business-analytics.md)
   * [University of Michigan ross](masters-of-business-analytics/university-of-michigan-ross.md)
   * [New York University - Stern Bus Analy](masters-of-business-analytics/untitled-1.md)

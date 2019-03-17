@@ -82,8 +82,10 @@
   * [North Carolina State University](data-analytics-cirriculum/north-carolina-state-university.md)
   * [Wayne State University \(like Leeds\)](data-analytics-cirriculum/wayne-state-university-like-leeds.md)
   * [Northwestern](data-analytics-cirriculum/northwestern.md)
-
-## asds
-
-* [Untitled](asds/untitled.md)
+* [Masters of Data Science](masters-of-data-science/README.md)
+  * [University of Pennsylvania](masters-of-data-science/university-of-pennsylvania.md)
+  * [Stanford](masters-of-data-science/stanfort.md)
+* [Masters of Business Analytics](masters-of-business-analytics/README.md)
+  * [Stanford](masters-of-business-analytics/stanford.md)
+  * [University of Pennsylvania - B Analytics](masters-of-business-analytics/university-of-pennsylvania-b-analytics.md)
 

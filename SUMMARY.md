@@ -11,6 +11,7 @@
   * [University of Chicago Data Science](masters-of-data-science/university-of-chicago-data-science.md)
   * [University of Pennsylvania](masters-of-data-science/university-of-pennsylvania.md)
 * [Masters of Business Analytics](masters-of-business-analytics/README.md)
+  * [Berkeley \(Haas\) Business Analytics](masters-of-business-analytics/berkeley-haas-business-analytics.md)
   * [Columbia](masters-of-business-analytics/columbia.md)
   * [Harvard Business Analytics](masters-of-business-analytics/harvard-business-analytics.md)
   * [Massachusetts Institute of Technology Business  Analytics](masters-of-business-analytics/massachusetts-institute-of-technology-business-analytics.md)

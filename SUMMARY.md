@@ -86,6 +86,7 @@
   * [University of Pennsylvania](masters-of-data-science/university-of-pennsylvania.md)
   * [Stanford](masters-of-data-science/stanfort.md)
 * [Masters of Business Analytics](masters-of-business-analytics/README.md)
+  * [Harvard Business Analytics](masters-of-business-analytics/harvard-business-analytics.md)
   * [Stanford](masters-of-business-analytics/stanford.md)
   * [University of Pennsylvania - B Analytics](masters-of-business-analytics/university-of-pennsylvania-b-analytics.md)
 

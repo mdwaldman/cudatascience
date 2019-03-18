@@ -2,6 +2,8 @@
 
 [MS in Business Analytics](https://msba.engineering.columbia.edu/)
 
+[courses](https://ieor.columbia.edu/ieor-courses)
+
 **Columbia Engineering and Columbia Business School  
 Announce New Master’s Degree in  
 Business Analytics**

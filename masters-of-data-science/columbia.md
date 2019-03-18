@@ -1,6 +1,6 @@
 # Columbia
 
-## Master of Science in Data Science
+## [Master of Science in Data Science](https://datascience.columbia.edu/master-of-science-in-data-science)
 
 ## Master of Science in Data Science
 

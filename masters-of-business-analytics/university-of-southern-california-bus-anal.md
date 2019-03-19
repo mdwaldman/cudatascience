@@ -2,6 +2,8 @@
 
 [link](https://www.marshall.usc.edu/programs/specialized-masters-programs/master-science-business-analytics)
 
+[rated 2nd](https://tfetimes.com/best-business-analytics-program-rankings/) 
+
 The Master of Science in Business Analytics degree requires 33 units, taken in 3 semesters \(with the flexibility of extending to 4 semesters\): Fall, Spring, Fall, including 19.5 units of required coursework plus 13.5 units of coursework chosen from a list of electives. The program may be completed on a full-time or part-time basis. All students must take GSBA 545, DSO 510, GSBA 542, DSO 545, and DSO 552 in the first semester. Part-time students will work with the program office to create schedules that work for them.
 
 Students who have taken one or more of the required courses elsewhere may petition to substitute one of these courses with electives or related courses. Please view the [USC Course Catalog](http://catalogue.usc.edu/)[ue ](https://www.marshall.usc.edu/programs/specialized-masters-programs/master-science-business-analytics/www.catalogue.usc.edu)for more details on our curriculum.

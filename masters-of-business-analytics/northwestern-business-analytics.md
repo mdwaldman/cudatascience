@@ -2,6 +2,10 @@
 
 [Master of Science in Analytics](https://www.mccormick.northwestern.edu/analytics/)
 
+
+
+Engineering + Businesss - doesn't have security and privacy
+
 ## WELCOME TO THEMASTER OF SCIENCE IN ANALYTICS PROGRAM \(MSIA\)
 
 The Master of Science in Analytics program at Northwestern University’s McCormick School of Engineering teaches students the skills that drive business success in today’s hyper-competitive, data-driven world.

@@ -2,6 +2,23 @@
 
 [MS Business Analytics](http://www.anderson.ucla.edu/degrees/master-of-science-in-business-analytics)
 
+
+
+States prerequisites up front
+
+  
+Linear Algebra
+
+Multivariable Calculus
+
+Statistics and Probability
+
+SQL
+
+R
+
+Python
+
 We want to make sure that you are fully prepared to take on the program's challenging coursework. It's recommended that prospective students explore and become comfortable with the courses below in preparation for the MSBA curriculum.
 
 Linear Algebra

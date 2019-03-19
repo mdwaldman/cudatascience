@@ -2,6 +2,8 @@
 
 [Masters Business Analytics](http://mitsloan.mit.edu/master-of-business-analytics/program-components/curriculum/)
 
+[link](https://mitsloan.mit.edu/master-of-business-analytics#tour-welcome)
+
 ## CURRICULUM
 
 The Master of Business Analytics program ensures that students have a strong understanding of the fundamentals of analytics, along with the experience to meet their career and personal goals.

@@ -42,6 +42,8 @@
   * [Untitled](masters-of-business-analytics/untitled.md)
   * [University of Pennsylvania - B Analytics](masters-of-business-analytics/university-of-pennsylvania-b-analytics.md)
   * [University of Southern California - Bus Anal](masters-of-business-analytics/university-of-southern-california-bus-anal.md)
+  * [University of Utah](masters-of-business-analytics/university-of-utah.md)
+  * [University of Washington](masters-of-business-analytics/university-of-washington.md)
 * [Villanova University](villanova-university.md)
 * [Data Science](data-science/README.md)
   * [University of Wisconsin Online](data-science/university-of-wisconsin-online.md)

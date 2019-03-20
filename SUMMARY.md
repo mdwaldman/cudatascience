@@ -28,6 +28,7 @@
   * [Harvard Business Analytics](masters-of-business-analytics/harvard-business-analytics.md)
   * [Massachusetts Institute of Technology Business  Analytics](masters-of-business-analytics/massachusetts-institute-of-technology-business-analytics.md)
   * [Stanford](masters-of-business-analytics/stanford.md)
+  * [Southern Methodist Univeristy](masters-of-business-analytics/southern-methodist-univeristy.md)
   * [New York University - Stern Bus Analy](masters-of-business-analytics/untitled-1.md)
   * [Northwestern Business Analytics](masters-of-business-analytics/northwestern-business-analytics.md)
   * [Rensselaer Polytechnic Institute](masters-of-business-analytics/rensselaer-polytechnic-institute.md)

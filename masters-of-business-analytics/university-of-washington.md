@@ -1,6 +1,14 @@
 # University of Washington
 
-MS Business Analytics
+[MS Business Analytics](https://www.tacoma.uw.edu/milgard/msba)
+
+Good program
+
+
+
+[this sheet](https://www.tacoma.uw.edu/sites/default/files/sections/MilgardSchoolofBusiness/MSBA%20Software%20Solutions.pdf)
+
+
 
 “As a result of the fourth Industrial Revolution, 5 million jobs will be lost before 2020 as artificial intelligence, robotics, nanotechnology and other socio-economic factors replace the need for human workers. The good news is that those same technological advances will also create 2.1 million new jobs. But the manual and clerical workers who find themselves out of work are unlikely to have the required skills to compete for the new roles. Most new jobs will be in more specialized areas such as computing, mathematics, architecture and engineering.”
 

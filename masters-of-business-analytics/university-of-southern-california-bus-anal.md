@@ -15,14 +15,24 @@ Students who have taken one or more of the required courses elsewhere may petiti
 | COURSE NUMBER | TITLE | UNITS |
 | :--- | :--- | :--- |
 | DSO 510\* | Business Analytics  | 1.5 |
+|  | Foundational knowledge for business analytics, including strategies, methods, and tools integrated with hands-on skills for defining business analytics for data-driven decision making and innovation. |  |
 | GSBA 545\* | Data Driven Decision Making | 1.5 |
+|  | Data analysis technologies for business decision making; principles and techniques of statistical inference for business problem solving; foundations of data-driven regression and time series analytics. |  |
 | GSBA 542\* | Communication for Management | 1.5 |
+|  | Internal and external communication, research methods, reports for decision-making, oral presentations and briefings, strategies to assure communication; field studies. |  |
+|  |  |  |
 | DSO 530 | Applied Modern Statistical Learning Methods | 3 |
+|  | Overview of highly computational modern statistical learning methods; applications of logistic regression, neural networks, LASSO, trees, boosting and GAM, etc., to finance and marketing data. |  |
 | DSO 545\* | Statistical Computing and Data Visualization | 3 |
+|  | Data cleaning and reshaping; good vs. bad graphics; univariate, bivariate, trivariate, hypervariate, and time series graphics; interactive graphics; web-related computing. Extensive computer applications using R. |  |
 | DSO 570  | The Analytics Edge: Data, Models, and Effective Decisions | 3 |
+|  | Decision making under uncertainty using real data applying the most advanced optimization, statistical and probability methods. |  |
 | DSO 573 | Data Analytics Driven Dynamic Strategy and Execution | 3 |
+|  | Advanced applications of data analytics in dynamic strategy formulation and execution; analytics and business methods for data connected enterprises to continuously enhance their competitive advantage. |  |
 | DSO 552\* | SQL Databases for Business Analysts | 1.5 |
+|  | SQL; relational database systems; data storage; data manipulation; data aggregation. |  |
 | DSO 553 | NoSQL Databases in Big Data | 1.5 |
+|  | NoSQL; semi-structured and unstructured databases; data storage; data manipulation; distributed databases. |  |
 
 - Hide
 

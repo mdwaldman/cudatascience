@@ -36,6 +36,7 @@
   * [University of Chicago \(Booth\) - Business Analytics](masters-of-business-analytics/university-of-chicago-booth-business-analytics.md)
   * [University of Denver](masters-of-business-analytics/university-of-denver.md)
   * [University of Indiana](masters-of-business-analytics/university-of-indiana.md)
+  * [University of Maryland’s](masters-of-business-analytics/university-of-marylands.md)
   * [University of Michigan ross](masters-of-business-analytics/university-of-michigan-ross.md)
   * [University of North Carolina](masters-of-business-analytics/university-of-north-carolina.md)
   * [University of Rochester](masters-of-business-analytics/university-of-rochester.md)

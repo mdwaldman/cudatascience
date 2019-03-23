@@ -2,9 +2,7 @@
 
 University of North Carolina--Chapel Hill \(Kenan-Flagler\) - doesn't appear to have business analytics
 
-## 
-
-## [DATA SCIENCE AND BUSINESS ANALYTICS](https://dsba.uncc.edu/)
+## [See the news](https://www.dur.ac.uk/business/programmes/masters/analytics-msc/)
 
 Professional Science Master's degree and Graduate Certificate programs in Data Science and Business Analytics \(DSBA\) are interdisciplinary in approach, at the intersection of business, computer and information sciences, statistics, and operations research. It is a unique blend of business acumen, data understanding, exposure to a diverse set of advanced analytics methods, and hands-on experience designed to help students apply technical and entrepreneurial knowledge to real-world business problems. DSBA graduates are equipped for employment in a broad array of data-intensive industries, such as financial services, energy, retail/supply chain, and healthcare.
 

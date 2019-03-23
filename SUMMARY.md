@@ -4,6 +4,7 @@
 * [Analyzing the Future](analyzing-the-future.md)
 * [Durham University Business School MSc Business Analytics launched with Department of Computer Scienc](durham-university-business-school-msc-business-analytics-launched-with-department-of-computer-scienc.md)
 * [5 Best Master’s \(MS\) in Analytics in USA](5-best-masters-ms-in-analytics-in-usa.md)
+* [25 Top Schools with Master’s in Business Analytics Programs](25-top-schools-with-masters-in-business-analytics-programs.md)
 * [Curriculum Guidelines for Undergraduate Programs in Data Science](curriculum-guidelines-for-undergraduate-programs-in-data-science.md)
 * [Masters of Data Science](masters-of-data-science/README.md)
   * [Berkeley MS Data Science Online](masters-of-data-science/berkeley-ms-data-science-online.md)

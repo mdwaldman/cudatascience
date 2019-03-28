@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Data Science and Data Analytics](README.md)
+* [Gartner](gartner/README.md)
+  * [China Summary Translation: 'Hype Cycle for Analytics and Business Intelligence, 2018'](gartner/china-summary-translation-hype-cycle-for-analytics-and-business-intelligence-2018.md)
 * [A CIO or IT manager’s task is enormous when introducing any new enterprise system like data analytic](a-cio-or-it-managers-task-is-enormous-when-introducing-any-new-enterprise-system-like-data-analytic.md)
 * [Why Most Business Intelligence Projects Fail](why-most-business-intelligence-projects-fail.md)
 * [Why the failure](why-the-failure.md)

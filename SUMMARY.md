@@ -1,13 +1,16 @@
 # Table of contents
 
 * [Data Science and Data Analytics](README.md)
+* [10 trends that would shape the future of data analytics](10-trends-that-would-shape-the-future-of-data-analytics.md)
 * [Gartner](gartner/README.md)
   * [China Summary Translation: 'Top 10 Strategic Technology Trends for 2019'](gartner/china-summary-translation-top-10-strategic-technology-trends-for-2019.md)
   * [Solution Path for Implementing a Comprehensive Architecture for Data and Analytics Strategies](gartner/solution-path-for-implementing-a-comprehensive-architecture-for-data-and-analytics-strategies.md)
   * [Hype Cycle for Analytics and Business Intelligence, 2018](gartner/hype-cycle-for-analytics-and-business-intelligence-2018/README.md)
     * [What Is Continuous Intelligence? - Forbes](gartner/hype-cycle-for-analytics-and-business-intelligence-2018/what-is-continuous-intelligence-forbes.md)
+    * [Augmented Analytics](gartner/hype-cycle-for-analytics-and-business-intelligence-2018/augmented-analytics.md)
     * [Immersive Analytics](gartner/hype-cycle-for-analytics-and-business-intelligence-2018/immersive-analytics.md)
     * [Data Storytelling: The Essential Data Science Skill Everyone Needs](gartner/hype-cycle-for-analytics-and-business-intelligence-2018/data-storytelling-the-essential-data-science-skill-everyone-needs.md)
+  * [China Summary Translation: 'Augmented Analytics Is the Future of Data and Analytics'](gartner/china-summary-translation-augmented-analytics-is-the-future-of-data-and-analytics.md)
   * [China Summary Translation: 'Hype Cycle for Analytics and Business Intelligence, 2018'](gartner/china-summary-translation-hype-cycle-for-analytics-and-business-intelligence-2018.md)
 * [A CIO or IT manager’s task is enormous when introducing any new enterprise system like data analytic](a-cio-or-it-managers-task-is-enormous-when-introducing-any-new-enterprise-system-like-data-analytic.md)
 * [Why Most Business Intelligence Projects Fail](why-most-business-intelligence-projects-fail.md)

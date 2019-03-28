@@ -1,6 +1,10 @@
 # Table of contents
 
 * [Data Science and Data Analytics](README.md)
+* [A CIO or IT manager’s task is enormous when introducing any new enterprise system like data analytic](a-cio-or-it-managers-task-is-enormous-when-introducing-any-new-enterprise-system-like-data-analytic.md)
+* [Why Most Business Intelligence Projects Fail](why-most-business-intelligence-projects-fail.md)
+* [Why the failure](why-the-failure.md)
+* [Friction - The Data Science Iron Triangle – Modern BI and Machine Learning](friction-the-data-science-iron-triangle-modern-bi-and-machine-learning.md)
 * [Analyzing the Future](analyzing-the-future.md)
 * [Durham University Business School MSc Business Analytics launched with Department of Computer Scienc](durham-university-business-school-msc-business-analytics-launched-with-department-of-computer-scienc.md)
 * [STEM Courses Can Enhance Your MBA](stem-courses-can-enhance-your-mba.md)
@@ -31,6 +35,7 @@
   * [Duke University](masters-of-business-analytics/duke-university.md)
   * [Emory University](masters-of-business-analytics/emory-university.md)
   * [Harvard Business Analytics](masters-of-business-analytics/harvard-business-analytics.md)
+  * [Johns Hopkins Business Analytics](masters-of-business-analytics/johns-hopkins-business-analytics.md)
   * [Massachusetts Institute of Technology Business  Analytics](masters-of-business-analytics/massachusetts-institute-of-technology-business-analytics.md)
   * [Stanford](masters-of-business-analytics/stanford.md)
   * [Southern Methodist Univeristy](masters-of-business-analytics/southern-methodist-univeristy.md)

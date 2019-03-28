@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Data Science and Data Analytics](README.md)
+* [Agile Data Science](agile-data-science/README.md)
+  * [Agile Data Science 2.0](agile-data-science/agile-data-science-2.0.md)
 * [10 trends that would shape the future of data analytics](10-trends-that-would-shape-the-future-of-data-analytics.md)
 * [Gartner](gartner/README.md)
   * [China Summary Translation: 'Top 10 Strategic Technology Trends for 2019'](gartner/china-summary-translation-top-10-strategic-technology-trends-for-2019.md)

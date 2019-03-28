@@ -2,6 +2,7 @@
 
 * [Data Science and Data Analytics](README.md)
 * [Gartner](gartner/README.md)
+  * [Hype Cycle for Analytics and Business Intelligence, 2018](gartner/hype-cycle-for-analytics-and-business-intelligence-2018.md)
   * [China Summary Translation: 'Hype Cycle for Analytics and Business Intelligence, 2018'](gartner/china-summary-translation-hype-cycle-for-analytics-and-business-intelligence-2018/README.md)
     * [Immersive Analytics](gartner/china-summary-translation-hype-cycle-for-analytics-and-business-intelligence-2018/immersive-analytics.md)
 * [A CIO or IT manager’s task is enormous when introducing any new enterprise system like data analytic](a-cio-or-it-managers-task-is-enormous-when-introducing-any-new-enterprise-system-like-data-analytic.md)

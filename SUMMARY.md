@@ -2,6 +2,7 @@
 
 * [Data Science and Data Analytics](README.md)
 * [Here's Who Made Gartner's 2019 Magic Quadrant For Data Management Solutions For Analytics](heres-who-made-gartners-2019-magic-quadrant-for-data-management-solutions-for-analytics.md)
+* [UData science and machine learning platforms advance analyticsntitled](udata-science-and-machine-learning-platforms-advance-analyticsntitled.md)
 * [Edx](edx/README.md)
   * [Introduction to Analytics Modeling](edx/introduction-to-analytics-modeling.md)
   * [Computing for Data AnalysisUntitled](edx/computing-for-data-analysisuntitled.md)

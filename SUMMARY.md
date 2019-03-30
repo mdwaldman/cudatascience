@@ -12,6 +12,7 @@
 * [Paco Nathan](paco-nathan/README.md)
   * [A landscape diagram for Python data](paco-nathan/a-landscape-diagram-for-python-data.md)
   * [Paco - Data Governance](paco-nathan/paco-data-governance.md)
+  * [Just Enough Math](paco-nathan/just-enough-math.md)
 * [Agile Data Science](agile-data-science/README.md)
   * [Agile Data Science 2.0](agile-data-science/agile-data-science-2.0.md)
 * [10 trends that would shape the future of data analytics](10-trends-that-would-shape-the-future-of-data-analytics.md)

@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Data Science and Data Analytics](README.md)
+* [HPE Accelerating Manufacturing at Hannover Messe Industrie](hpe-accelerating-manufacturing-at-hannover-messe-industrie.md)
 * [Here's Who Made Gartner's 2019 Magic Quadrant For Data Management Solutions For Analytics](heres-who-made-gartners-2019-magic-quadrant-for-data-management-solutions-for-analytics.md)
 * [UData science and machine learning platforms advance analyticsntitled](udata-science-and-machine-learning-platforms-advance-analyticsntitled.md)
 * [Edx](edx/README.md)
@@ -8,6 +9,8 @@
   * [Computing for Data AnalysisUntitled](edx/computing-for-data-analysisuntitled.md)
   * [Data Analytics for Business](edx/data-analytics-for-business.md)
 * [why-data-science-leaders-fail - Oracle](why-data-science-leaders-fail-oracle.md)
+* [Paco Nathan](paco-nathan/README.md)
+  * [A landscape diagram for Python data](paco-nathan/a-landscape-diagram-for-python-data.md)
 * [Paco - Data Governance](paco-data-governance.md)
 * [Agile Data Science](agile-data-science/README.md)
   * [Agile Data Science 2.0](agile-data-science/agile-data-science-2.0.md)

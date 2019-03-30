@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Data Science and Data Analytics](README.md)
+* [News Cycle](news-cycle/README.md)
+  * [Untitled](news-cycle/untitled.md)
 * [HPE Accelerating Manufacturing at Hannover Messe Industrie](hpe-accelerating-manufacturing-at-hannover-messe-industrie.md)
 * [Here's Who Made Gartner's 2019 Magic Quadrant For Data Management Solutions For Analytics](heres-who-made-gartners-2019-magic-quadrant-for-data-management-solutions-for-analytics.md)
 * [UData science and machine learning platforms advance analyticsntitled](udata-science-and-machine-learning-platforms-advance-analyticsntitled.md)

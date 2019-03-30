@@ -84,6 +84,7 @@
   * [University of Washington](masters-of-business-analytics/university-of-washington.md)
   * [University of Wisconsin](masters-of-business-analytics/university-of-wisconsin.md)
   * [Villanova University](masters-of-business-analytics/villanova-university.md)
+  * [Wayne State University \(like Leeds\)](masters-of-business-analytics/wayne-state-university-like-leeds.md)
 * [Data Science](data-science/README.md)
   * [University of Wisconsin Online](data-science/university-of-wisconsin-online.md)
   * [American University](data-science/american-university.md)
@@ -162,6 +163,5 @@
   * [University Of Dayton](data-analytics-cirriculum/university-of-dayton.md)
   * [Rutgers](data-analytics-cirriculum/rutgers.md)
   * [North Carolina State University](data-analytics-cirriculum/north-carolina-state-university.md)
-  * [Wayne State University \(like Leeds\)](data-analytics-cirriculum/wayne-state-university-like-leeds.md)
   * [Northwestern](data-analytics-cirriculum/northwestern.md)
 

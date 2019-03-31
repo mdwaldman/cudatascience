@@ -27,7 +27,7 @@
 * [News Cycle](news-cycle/README.md)
   * [HPE Accelerating Manufacturing at Hannover Messe Industrie](news-cycle/hpe-accelerating-manufacturing-at-hannover-messe-industrie.md)
   * [Here's Who Made Gartner's 2019 Magic Quadrant For Data Management Solutions For Analytics](news-cycle/heres-who-made-gartners-2019-magic-quadrant-for-data-management-solutions-for-analytics.md)
-  * [UData science and machine learning platforms advance analyticsntitled](news-cycle/udata-science-and-machine-learning-platforms-advance-analyticsntitled.md)
+  * [Data science and machine learning platforms advance analytics](news-cycle/udata-science-and-machine-learning-platforms-advance-analyticsntitled.md)
   * [why-data-science-leaders-fail - Oracle](news-cycle/why-data-science-leaders-fail-oracle.md)
   * [China Summary Translation: 'Augmented Analytics Is the Future of Data and Analytics'](news-cycle/china-summary-translation-augmented-analytics-is-the-future-of-data-and-analytics.md)
   * [China Summary Translation: 'Hype Cycle for Analytics and Business Intelligence, 2018'](news-cycle/china-summary-translation-hype-cycle-for-analytics-and-business-intelligence-2018.md)

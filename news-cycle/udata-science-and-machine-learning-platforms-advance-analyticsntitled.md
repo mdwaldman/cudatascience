@@ -1,4 +1,4 @@
-# UData science and machine learning platforms advance analyticsntitled
+# Data science and machine learning platforms advance analytics
 
 {% embed url="https://searchenterpriseai.techtarget.com/feature/Data-science-platforms-boost-automation-collaboration" %}
 

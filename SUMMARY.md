@@ -11,6 +11,7 @@
   * [Paco - Data Governance](paco-nathan/paco-data-governance.md)
   * [Just Enough Math](paco-nathan/just-enough-math.md)
   * [Data Science Curriculum](paco-nathan/data-science-curriculum.md)
+  * [Confronting Deep Learning Systems: How Much Things Have Changed and How Much We Do Not Know](paco-nathan/confronting-deep-learning-systems-how-much-things-have-changed-and-how-much-we-do-not-know.md)
 * [Agile Data Science](agile-data-science/README.md)
   * [Agile Data Science 2.0](agile-data-science/agile-data-science-2.0.md)
 * [Gartner](gartner/README.md)

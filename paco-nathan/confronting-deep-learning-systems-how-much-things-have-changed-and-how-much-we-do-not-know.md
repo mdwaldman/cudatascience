@@ -42,6 +42,8 @@ However, one surprise was that a large chunk of the more sophisticated organizat
 
 Those are traditionally the responsibilities of product managers or executives. Moreover, the more sophisticated organizations report they use “Other” methodology, instead of “Agile” methodology, substantially more. We didn’t have a way to probe what that “Other” approach might be.
 
+## [_AI adoption advances, but foundational barriers remain_](https://www.mckinsey.com/featured-insights/artificial-intelligence/ai-adoption-advances-but-foundational-barriers-remain)\_\_
+
 {% file src="../.gitbook/assets/how-companies-are-putting-ai-to-work-through-deep-learning.pdf" caption="How Companies are Putting AI to Work through Deep Learning" %}
 
 {% file src="../.gitbook/assets/evolving-data-infrastructure.pdf" caption="Data Infrastructure - pdf" %}

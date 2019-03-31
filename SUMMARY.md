@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Data Science and Data Analytics](README.md)
+* [The 6 Best Data Science Master's Degree Courses In the US](the-6-best-data-science-masters-degree-courses-in-the-us.md)
 * [Edx](edx/README.md)
   * [Introduction to Analytics Modeling](edx/introduction-to-analytics-modeling.md)
   * [10 trends that would shape the future of data analytics](edx/10-trends-that-would-shape-the-future-of-data-analytics.md)
@@ -50,6 +51,7 @@
   * [Stanford](masters-of-data-science/stanfort.md)
   * [University of California LA - DS](masters-of-data-science/university-of-california-la-ds.md)
   * [University of Chicago Data Science](masters-of-data-science/university-of-chicago-data-science.md)
+  * [University of Denver MS Data Science](masters-of-data-science/university-of-denver-ms-data-science.md)
   * [University of Indiana - Data Science](masters-of-data-science/university-of-indiana-data-science.md)
   * [University of Pennsylvania](masters-of-data-science/university-of-pennsylvania.md)
   * [University of Southern California - Data Science](masters-of-data-science/university-of-southern-california-data-science.md)

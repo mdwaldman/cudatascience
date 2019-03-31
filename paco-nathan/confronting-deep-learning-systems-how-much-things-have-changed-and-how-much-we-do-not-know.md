@@ -24,8 +24,11 @@ Unfortunately, many organizations will never be able to transform their culture,
 
 This is not inevitable! As IT professionals, we live in interesting times. Cough! With the exploding availability of AI technologies, we have exciting beneficial opportunities to transform businesses globally in ways that are now unimaginable.
 
-The hope is that, as a society, we do so to benefit all. However, the unfortunate reality is… If we are lazy or self-centered or even malicious, those same opportunities are available for misuse.  
+The hope is that, as a society, we do so to benefit all. However, the unfortunate reality is… If we are lazy or self-centered or even malicious, those same opportunities are available for misuse.
 
+## [3 promising areas for AI skills development](https://www.oreilly.com/ideas/3-promising-areas-for-ai-skills-development)
+
+## [Themes and Conferences per Pacoid, Episode 7](https://blog.dominodatalab.com/themes-and-conferences-per-pacoid-episode-7/)
 
 {% file src="../.gitbook/assets/how-companies-are-putting-ai-to-work-through-deep-learning.pdf" caption="How Companies are Putting AI to Work through Deep Learning" %}
 

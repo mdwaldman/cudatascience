@@ -46,6 +46,7 @@
   * [Duke University Data Science](masters-of-data-science/duke-university-data-science.md)
   * [Georgia Tech](masters-of-data-science/georgia-tech.md)
   * [Harvard Data Science](masters-of-data-science/harvard-data-science.md)
+  * [Illinois Institute of Technology](masters-of-data-science/illinois-institute-of-technology.md)
   * [Massachusetts Institute of Technology Data Scienc](masters-of-data-science/massachusetts-institute-of-technology-data-scienc.md)
   * [New York Univeristy Center for Data Science](masters-of-data-science/new-york-univeristy-center-for-data-science.md)
   * [Northwestern Data Science](masters-of-data-science/northwestern-data-science.md)

@@ -30,6 +30,18 @@ The hope is that, as a society, we do so to benefit all. However, the unfortunat
 
 ## [Themes and Conferences per Pacoid, Episode 7](https://blog.dominodatalab.com/themes-and-conferences-per-pacoid-episode-7/)
 
+## Management
+
+As one might expect, our first survey showed how the sophisticated organizations leverage their internal data science teams to build their ML models, while less experienced organizations tend to rely more on external consultants:
+
+![](https://blog.dominodatalab.com/wp-content/uploads/2019/03/Figure-5c-E7-1024x714.png)
+
+However, one surprise was that a large chunk of the more sophisticated organizations rely on data science leads to set project priorities and determine the key metrics for success:
+
+![](https://blog.dominodatalab.com/wp-content/uploads/2019/03/Figure-6c-E7-1024x610.png)
+
+Those are traditionally the responsibilities of product managers or executives. Moreover, the more sophisticated organizations report they use “Other” methodology, instead of “Agile” methodology, substantially more. We didn’t have a way to probe what that “Other” approach might be.
+
 {% file src="../.gitbook/assets/how-companies-are-putting-ai-to-work-through-deep-learning.pdf" caption="How Companies are Putting AI to Work through Deep Learning" %}
 
 {% file src="../.gitbook/assets/evolving-data-infrastructure.pdf" caption="Data Infrastructure - pdf" %}

@@ -2,6 +2,131 @@
 
 ## [DATA SCIENCE INITIATIVE](https://datascience.northwestern.edu/about/)
 
+## [MASTER OF SCIENCE IN ANALYTICS PROGRAM \(MSIA\)](https://www.mccormick.northwestern.edu/analytics/)
+
+### FALL QUARTER \(FIRST\)
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">
+        <p><b>INDUSTRY PRACTICUM (MSIA 489)</b>
+        </p>
+        <p>Under the guidance of business and technical advisers, students work in
+          small teams to integrate coursework into an industry-supplied project.</p>
+      </th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table>**EVERYTHING STARTS WITH DATA \(MSIA 400\)**
+
+A gateway course covering basic analytics concepts through projects and success stories.
+
+**INTRODUCTION TO DATABASES & INFORMATION RETRIEVAL \(MSIA 413\)**
+
+Data models and database design; SQL, distributed databases, and information retrieval.
+
+**PREDICTIVE ANALYTICS I \(MSIA 401\)**
+
+Multiple regression, logistic regression, discriminant analysis, generalized linear models, and survival analysis.
+
+**INTRODUCTION TO JAVA & PYTHON PROGRAMMING \(MSIA 422\)**
+
+Object oriented programming, data structures, and algorithms.
+
+### WINTER QUARTER
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">
+        <p><b>INDUSTRY PRACTICUM (MSIA 489)</b>
+        </p>
+        <p>Under the guidance of business and technical advisers, students work in
+          small teams to integrate coursework into an industry supplied projects.</p>
+      </th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table>**ANALYTICAL CONSULTING PROJECT LEADERSHIP \(MSIA 410\)**
+
+Presenting, proposal writing, business etiquette, and consulting practices.
+
+**DATA VISUALIZATION \(MSIA 411\)**
+
+Visualization principles, scorecards, dashboards, interacting with graphics, story telling, and D3.
+
+**DATA MINING \(MSIA 421\)**
+
+Clustering \(k-means, partitioning\), association rules, factor analysis, scale development, survival analysis, principal components analysis, and dimension reduction.
+
+**PREDICTIVE ANALYTICS II \(MSIA 420\)**
+
+Non-parametric regression and classification, time series, and statistical process control.
+
+### SPRING QUARTER
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">
+        <p><b>INDUSTRY PRACTICUM (MSIA 489)</b>
+        </p>
+        <p>Under the guidance of business and technical advisers, students work in
+          small teams to integrate coursework into an industry supplied projects.</p>
+      </th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table>**ANALYTICS VALUE CHAIN \(MSIA 423\)**
+
+A/B testing, design of experiments, and production-ready data science solutions.
+
+**ANALYTICS FOR BIG DATA \(MSIA 431\)**
+
+With emphasis on Hadoop, unstructured data concepts \(key-value\), MapReduce technology, and analytics for big data.
+
+**INTRODUCTION TO DATA MANAGEMENT FOR BUSINESS INTELLIGENCE \(MSIA 430\)**
+
+Online Analytical Processing \(OLAP\), dimensional modeling, and data streaming.
+
+**DEEP LEARNING \(MSIA 432\)**
+
+Deep learning models \(generative and discriminative\), CNN, RNN, and back propagation.
+
+### SUMMER QUARTER
+
+**INTERNSHIP**
+
+Students spend a minimum of 10 weeks in the employment of an industry collaborator.
+
+### FALL QUARTER \(SECOND\)
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">
+        <p><b>CAPSTONE DESIGN PROJECT (MSIA 499)</b>
+        </p>
+        <p>In this culminating project, students draw on the breadth and depth of
+          the curriculum to address an industry supplied problem.</p>
+      </th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table>**BUSINESS VALUE FROM ANALYTICS IN THE DIGITAL AGE \(MSIA 412\)**
+
+Identifying appropriate analytics projects, ROI, and building an analytics organization.
+
+**TEXT ANALYTICS \(MSIA 414\)**
+
+Text analytics preprocessing, document clustering, retrieval, sentiment analysis, POST, and name entity recognition \(NER\).
+
+**ELECTIVE** 
+
+Choose from \(examples\): [Healthcare Analytics](https://www.mccormick.northwestern.edu/analytics/curriculum/descriptions/msia-490-23.html), [Predictive Models for Credit Risk Management](https://www.mccormick.northwestern.edu/analytics/curriculum/descriptions/msia-490-21.html), [Optimization & Heuristics](https://www.mccormick.northwestern.edu/analytics/curriculum/descriptions/msia-440.html), or [Social Networks Analysis](https://www.mccormick.northwestern.edu/analytics/curriculum/descriptions/msia-490-27.html).  
+
+
 ### About
 
 Northwestern University’s Data Science Initiative has its origin in a [Lawrence B. Dumas Domain Dinner](http://www.adminplan.northwestern.edu/planning/domain/index.html) titled “The Possibilities of Big Data” that took place in [May 2013](http://www.adminplan.northwestern.edu/planning/domain/schedule.html#fifteen). The Domain Dinner Program, which  originated in 1998 as a result of the strategic planning process for The Highest Order of Excellence, the University’s strategic plan at the time, is designed to stimulate faculty interactions across departments and disciplines and highlight Northwestern’s distinctive culture of interdisciplinary collaboration.

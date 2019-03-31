@@ -26,7 +26,7 @@ This is not inevitable! As IT professionals, we live in interesting times. Cough
 
 The hope is that, as a society, we do so to benefit all. However, the unfortunate reality is… If we are lazy or self-centered or even malicious, those same opportunities are available for misuse.
 
-## [3 promising areas for AI skills development](https://www.oreilly.com/ideas/3-promising-areas-for-ai-skills-development)
+##  [3 promising areas for AI skills development](https://www.oreilly.com/ideas/3-promising-areas-for-ai-skills-development)
 
 ## [Themes and Conferences per Pacoid, Episode 7](https://blog.dominodatalab.com/themes-and-conferences-per-pacoid-episode-7/)
 
@@ -37,4 +37,18 @@ The hope is that, as a society, we do so to benefit all. However, the unfortunat
 {% file src="../.gitbook/assets/the-state-of-machine-learning-adoption-in-the-enterprise.pdf" caption="State of Machine Learning - pdf" %}
 
 {% file src="../.gitbook/assets/ai-adoption-in-the-enterprise.pdf" caption="AI Adaption in the Enterprise" %}
+
+## [Three surveys of AI adoption reveal key advice from more mature practices](https://www.oreilly.com/ideas/three-surveys-of-ai-adoption-reveal-key-advice-from-more-mature-practices)
+
+### Advice from the leaders
+
+Admittedly, the survey for _AI Adoption in the Enterprise_ drew from the initiated: 81% of respondents work for organizations that already use AI. We have much to learn from their collective experiences. For example, there’s a story unfolding in the contrast between mature practices and firms that are earlier in their journey toward AI adoption. Some of the key advice emerging from the mature organizations includes:
+
+* Work toward overcoming challenges related to company culture or not being able to recognize the business use cases.
+* Be mindful that the lack of data and lack of skilled people will pose ongoing challenges.
+* _**While hiring data scientists, complement by also hiring people who can identify business use cases for AI solutions**_.
+* Beyond just optimizing for business metrics, also check for model transparency and interpretability, fairness and bias, and that your AI systems are reliable and safe.
+* Explore use cases beyond deep learning: other solutions have gained significant traction, including human-in-the-loop, knowledge graphs, and reinforcement learning.
+* Look for value in applications of [transfer learning](https://learning.oreilly.com/videos/oreilly-artificial-intelligence/9781491985250/9781491985250-video314919), which is a nuanced technique the more advanced organizations recognize.
+* Your organization probably needs to invest more in infrastructure engineering than it thinks, perpetually.
 

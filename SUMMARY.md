@@ -50,6 +50,7 @@
   * [Massachusetts Institute of Technology Data Scienc](masters-of-data-science/massachusetts-institute-of-technology-data-scienc.md)
   * [New York Univeristy Center for Data Science](masters-of-data-science/new-york-univeristy-center-for-data-science.md)
   * [Northwestern Data Science](masters-of-data-science/northwestern-data-science.md)
+  * [North Carolina State University DS](masters-of-data-science/north-carolina-state-university-ds.md)
   * [Stanford](masters-of-data-science/stanfort.md)
   * [University of California LA - DS](masters-of-data-science/university-of-california-la-ds.md)
   * [University of Chicago Data Science](masters-of-data-science/university-of-chicago-data-science.md)

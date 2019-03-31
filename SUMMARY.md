@@ -44,6 +44,7 @@
   * [Carnegie Mellon University DS](masters-of-data-science/untitled.md)
   * [Columbia](masters-of-data-science/columbia.md)
   * [Duke University Data Science](masters-of-data-science/duke-university-data-science.md)
+  * [Georgia Tech](masters-of-data-science/georgia-tech.md)
   * [Harvard Data Science](masters-of-data-science/harvard-data-science.md)
   * [Massachusetts Institute of Technology Data Scienc](masters-of-data-science/massachusetts-institute-of-technology-data-scienc.md)
   * [New York Univeristy Center for Data Science](masters-of-data-science/new-york-univeristy-center-for-data-science.md)

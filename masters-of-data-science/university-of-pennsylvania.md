@@ -1,4 +1,4 @@
-# University of Pennsylvania
+# University of Pennsylvania - DS
 
 [MSE in Data Science](https://dats.seas.upenn.edu/programofstudy/)
 

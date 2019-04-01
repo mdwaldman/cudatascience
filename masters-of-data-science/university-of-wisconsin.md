@@ -1,4 +1,4 @@
-# University of Wisconsin
+# University of Wisconsin - DS
 
 ## Data Science
 

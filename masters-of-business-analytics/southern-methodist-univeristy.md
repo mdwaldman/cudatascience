@@ -1,4 +1,4 @@
-# Southern Methodist Univeristy
+# Southern Methodist Univeristy - BA
 
 
 

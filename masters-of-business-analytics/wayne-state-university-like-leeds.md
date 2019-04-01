@@ -1,4 +1,4 @@
-# Wayne State University \(like Leeds\)
+# Wayne State University - BA \(like Leeds\)
 
 **I**[**nterdisciplinary Master of Science in Data Science and Business Analytics**](https://engineering.wayne.edu/data-analytics/about.php)\*\*\*\*
 

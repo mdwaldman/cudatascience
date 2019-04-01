@@ -1,4 +1,4 @@
-# New York University - Stern Bus Analy
+# New York University - BA - Stern Bus Analy
 
 ## [Full-time MBA \| Business Analytics](http://www.stern.nyu.edu/programs-admissions/full-time-mba/academics/areas-interest/business-analytics)
 

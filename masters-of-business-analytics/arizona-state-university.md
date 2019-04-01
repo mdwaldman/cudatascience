@@ -1,4 +1,4 @@
-# Arizona State University
+# Arizona State University - BA
 
 [Master of Science in Business Analytics](https://wpcarey.asu.edu/masters-programs/business-analytics)
 

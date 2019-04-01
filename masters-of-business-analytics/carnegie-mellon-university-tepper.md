@@ -1,4 +1,4 @@
-# Carnegie Mellon University \(Tepper\)
+# Carnegie Mellon University - BA -\(Tepper\)
 
 ## [Business Analytics MBA Track](https://www.cmu.edu/tepper/programs/mba/curriculum/tracks/business-analytics.html)
 

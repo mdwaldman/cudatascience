@@ -1,4 +1,4 @@
-# University of Maryland’s
+# University of Maryland - BA
 
 ## ACADEMICS <a id="page-title"></a>
 

@@ -1,4 +1,4 @@
-# University of Texas
+# University of Texas - BA
 
 [Business Analytics](https://www.mccombs.utexas.edu/Master-of-Science-in-Business-Analytics/Academics/Curriculum)
 

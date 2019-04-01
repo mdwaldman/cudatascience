@@ -1,4 +1,4 @@
-# Rensselaer Polytechnic Institute
+# Rensselaer Polytechnic Institute - BA
 
 ## [M.S. in Business Analytics](https://lallyschool.rpi.edu/ms-business-analytics) <a id="pagetitle"></a>
 

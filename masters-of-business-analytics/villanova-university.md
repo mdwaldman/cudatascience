@@ -1,4 +1,4 @@
-# Villanova University
+# Villanova University - BA
 
 ## [Master of Science in Analytics](https://www1.villanova.edu/villanova/business/graduate/specializedprograms/msa.html) - online
 

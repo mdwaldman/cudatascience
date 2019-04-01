@@ -1,4 +1,4 @@
-# University of Califorina LA Anderson
+# University of Califorina LA - BA  Anderson
 
 [MS Business Analytics](http://www.anderson.ucla.edu/degrees/master-of-science-in-business-analytics)
 

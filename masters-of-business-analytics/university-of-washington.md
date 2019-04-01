@@ -1,4 +1,4 @@
-# University of Washington
+# University of Washington - BA
 
 [MS Business Analytics](https://www.tacoma.uw.edu/milgard/msba)
 

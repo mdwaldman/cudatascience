@@ -1,4 +1,4 @@
-# Georgia Tech Master of Science in Analytics
+# Georgia Tech - BA - Master of Science in Analytics
 
 [Master of Science in Analytics](http://catalog.gatech.edu/programs/analytics-ms/)
 

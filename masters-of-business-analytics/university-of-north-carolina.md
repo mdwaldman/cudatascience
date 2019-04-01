@@ -1,4 +1,4 @@
-# University of North Carolina
+# University of North Carolina - BA
 
 University of North Carolina--Chapel Hill \(Kenan-Flagler\) - doesn't appear to have business analytics
 

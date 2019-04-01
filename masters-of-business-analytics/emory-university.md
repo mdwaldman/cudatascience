@@ -1,4 +1,4 @@
-# Emory University
+# Emory University - BA
 
 [MSBA](https://goizueta.emory.edu/documents/MSBAbrochure.pdf)
 

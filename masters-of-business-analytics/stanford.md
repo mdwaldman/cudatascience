@@ -1,4 +1,4 @@
-# Stanford
+# Stanford - BA
 
 does not appear to have business analytics, only [MBA](https://www.gsb.stanford.edu/programs/mba/academic-experience/curriculum)
 

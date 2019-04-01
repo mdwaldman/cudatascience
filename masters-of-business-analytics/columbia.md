@@ -1,4 +1,4 @@
-# Columbia
+# Columbia - BA
 
 [MS in Business Analytics](https://msba.engineering.columbia.edu/)
 

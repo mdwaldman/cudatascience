@@ -1,4 +1,4 @@
-# University of Utah
+# University of Utah - BA
 
 ## [Master of Science in Business Analytics](https://eccles.utah.edu/programs/master-of-science-in-business-analytics/)
 

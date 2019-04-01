@@ -1,4 +1,4 @@
-# University of Denver
+# University of Denver - BA
 
 [MS Business Analytics](https://daniels.du.edu/business-information-analytics/masters/?matchtype=b&keyword=%2Bmasters%20%2Bbusiness%20%2Banalyticshttp%3A%2F%2Finquire.daniels.du.edu%2Fbusiness-information-analytics%2F%3Fmatchtype%3Db&keyword=%2Bmasters%20%2Bbusiness%20%2Banalytics&utm_source=adwords&gclid=EAIaIQobChMI6dCHvPiT4QIVl7jACh3frAA1EAAYASAAEgL7ZfD_BwE)
 

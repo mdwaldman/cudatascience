@@ -1,4 +1,4 @@
-# University of Indiana
+# University of Indiana - BA
 
 ## [BUSINESS ANALYTICS](https://kelley.iu.edu/programs/full-time-mba/academics/majors-minors/business-analytics.cshtml)
 

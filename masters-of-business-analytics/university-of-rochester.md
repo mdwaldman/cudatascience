@@ -1,4 +1,4 @@
-# University of Rochester
+# University of Rochester - BA
 
 [MS Business Analytics](http://www.simon.rochester.edu/programs/full-time-ms-in-business-analytics/index.aspx)
 

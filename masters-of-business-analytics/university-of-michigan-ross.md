@@ -1,4 +1,4 @@
-# University of Michigan ross
+# University of Michigan  - BA Ross
 
 ## [MS-BUSINESS ANALYTICS](https://umdearborn.edu/cob/graduate-programs/degree-programs/ms-business-analytics)
 

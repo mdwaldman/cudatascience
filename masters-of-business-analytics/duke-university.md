@@ -1,4 +1,4 @@
-# Duke University
+# Duke University - BA
 
 
 

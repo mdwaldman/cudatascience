@@ -45,6 +45,8 @@ A particularly large number of companies in the Greater New York City area are d
 
 Degree requirements for the MS in Data Science can be found at [http://gsas.nyu.edu/bulletin/data-science/ms-data-science.html](http://gsas.nyu.edu/bulletin/data-science/ms-data-science.html).
 
+
+
 The curriculum for the MS in Data Science \(MSDS\) degree is 36 credits. One of the key features of the MS in Data Science curriculum is a capstone project that makes the theoretical knowledge you gain in the program operational in realistic settings. During the project, you will go through the entire process of solving a real-world problem: from collecting and processing real-world data, to designing the best method to solve the problem, and finally, to implementing a solution. The problems and datasets you’ll engage with will come from real-world settings identical to what you might encounter in industry, academia, or government.
 
 The MSDS also offers students the opportunity to pursue a track. Tracks allow you to connect with faculty who advise and help you plan your curriculum and career goals.  See below for more information.
@@ -53,7 +55,7 @@ The MSDS also offers students the opportunity to pursue a track. Tracks allow yo
 
 Course descriptions can be found in NYU’s [Albert Course Search](http://albert.nyu.edu/course-search). Recent course pages are linked below.
 
-1. [DS-GA 1001 Introduction to Data Science](https://github.com/briandalessandro/DataScienceCourse)
+1. [DS-GA 1001 Introduction to Data Science](https://github.com/briandalessandro/DataScienceCourse)  
 2. [DS-GA 1002 Probability and Statistics for Data Science](http://www.cims.nyu.edu/~cfgranda/pages/DSGA1002_fall17/index.html)
 3. [DS-GA 1003 Machine Learning](https://davidrosenberg.github.io/ml2017/#home)
 4. [DS-GA 1004 Big Data](https://www.vistrails.org/index.php/Course:_Big_Data_2015)

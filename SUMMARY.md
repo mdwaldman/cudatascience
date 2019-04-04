@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Data Science and Data Analytics](README.md)
+* [Documents](documents.md)
 * [The 6 Best Data Science Master's Degree Courses In the US](the-6-best-data-science-masters-degree-courses-in-the-us.md)
 * [Edx](edx/README.md)
   * [Introduction to Analytics Modeling](edx/introduction-to-analytics-modeling.md)

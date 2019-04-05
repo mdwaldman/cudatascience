@@ -43,6 +43,7 @@
   * [5 Best Master’s \(MS\) in Analytics in USA](news-cycle/5-best-masters-ms-in-analytics-in-usa.md)
   * [Curriculum Guidelines for Undergraduate Programs in Data Science](news-cycle/curriculum-guidelines-for-undergraduate-programs-in-data-science.md)
   * [25 Top Schools with Master’s in Business Analytics Programs](news-cycle/25-top-schools-with-masters-in-business-analytics-programs.md)
+  * [ENABLING AI SERVICES THROUGH OPERATIONALIZATION + SELF-SERVICE ANALYTICS](news-cycle/enabling-ai-services-through-operationalization-+-self-service-analytics.md)
 * [Masters of Data Science](masters-of-data-science/README.md)
   * [Berkeley MS Data Science Online](masters-of-data-science/berkeley-ms-data-science-online.md)
   * [Carnegie Mellon University DS](masters-of-data-science/untitled.md)

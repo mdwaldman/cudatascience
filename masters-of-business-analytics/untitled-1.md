@@ -2,7 +2,9 @@
 
 ## [Full-time MBA \| Business Analytics](http://www.stern.nyu.edu/programs-admissions/full-time-mba/academics/areas-interest/business-analytics)
 
-## 
+## [https://www.stern.nyu.edu/programs-admissions/ms-business-analytics/academics/format-and-schedule](https://www.stern.nyu.edu/programs-admissions/ms-business-analytics/academics/format-and-schedule)
+
+[https://www.stern.nyu.edu/programs-admissions/ms-business-analytics/academics/course-index](https://www.stern.nyu.edu/programs-admissions/ms-business-analytics/academics/course-index)
 
 #### Business Analytics
 

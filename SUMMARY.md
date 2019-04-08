@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Data Science and Data Analytics](README.md)
+* [Creating Institutional Change in Data Science](creating-institutional-change-in-data-science.md)
 * [Documents](documents.md)
 * [The 6 Best Data Science Master's Degree Courses In the US](the-6-best-data-science-masters-degree-courses-in-the-us.md)
 * [Edx](edx/README.md)

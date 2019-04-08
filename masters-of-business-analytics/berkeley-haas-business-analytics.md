@@ -4,6 +4,8 @@
 
 **Business Problem Context**
 
+\*\*\*\*[**Jupyterhub**](https://jupyter.haas.berkeley.edu/)\*\*\*\*
+
 You came to the Haas School of Business in order to learn to become a leader, not to become a data scientist.  Haas courses therefore are largely designed to introduce principles of data analytics in the context of business and leadership.  However, this in no way is meant to imply that certain concepts or algorithms only apply to one type of context.  We recognize that requirements limit the number of electives a student may take.  The business analytics curriculum is coordinated to enable a student to learn basic concepts \(e.g. supervised v. unsupervised learning, evaluating the performance of a categorical classifier, experimental design\) in one of several different courses.   At the same time, students seeking greater depth can elect additional courses and revisit the same higher-level concepts but with different concrete algorithms and applied to different types of business problems.
 
 ### Business Analytics as a program of study at Haas

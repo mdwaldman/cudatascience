@@ -5,6 +5,7 @@
 * [MSDSE](msdse.md)
 * [Documents](documents/README.md)
   * [National Science Foundation](documents/national-science-foundation.md)
+  * [Continuous Delivery Cannot Succeed Without Business Analysts](documents/continuous-delivery-cannot-succeed-without-business-analysts.md)
 * [The 6 Best Data Science Master's Degree Courses In the US](the-6-best-data-science-masters-degree-courses-in-the-us.md)
 * [Edx](edx/README.md)
   * [Introduction to Analytics Modeling](edx/introduction-to-analytics-modeling.md)

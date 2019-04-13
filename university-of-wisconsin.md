@@ -4,7 +4,7 @@
 
 [UW Master of Science in Data Science](https://datasciencedegree.wisconsin.edu/data-science-program/)
 
-{% file src=".gitbook/assets/wisconsinonlinevsba \(1\).docx" %}
+{% file src=".gitbook/assets/wisconsinonlinevsba \(2\).docx" caption="University of Wisconsin Comparison" %}
 
 
 

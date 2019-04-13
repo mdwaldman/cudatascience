@@ -50,6 +50,7 @@
   * [25 Top Schools with Master’s in Business Analytics Programs](news-cycle/25-top-schools-with-masters-in-business-analytics-programs.md)
   * [ENABLING AI SERVICES THROUGH OPERATIONALIZATION + SELF-SERVICE ANALYTICS](news-cycle/enabling-ai-services-through-operationalization-+-self-service-analytics.md)
 * [DSOnlineVSBusinessAnalytics](datascienceonlinevsmastersbusinessanalytics/README.md)
+  * [Johns Hopkins University](datascienceonlinevsmastersbusinessanalytics/johns-hopkins-university.md)
   * [Southern Methodist University](datascienceonlinevsmastersbusinessanalytics/southern-methodist-university.md)
   * [Syracuse Universty](datascienceonlinevsmastersbusinessanalytics/syracuse-universty.md)
   * [University of Wisconsin](datascienceonlinevsmastersbusinessanalytics/university-of-wisconsin.md)

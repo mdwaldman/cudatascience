@@ -1,6 +1,6 @@
 # University of Southern California
 
-[online Masters Data Science ](university-of-southern-california.md)
+[online Masters Data Science ](http://catalogue.usc.edu/preview_program.php?catoid=8&poid=10302&returnto=2297)
 
 [Masters Business Analytics](https://www.marshall.usc.edu/programs/specialized-masters-programs/master-science-business-analytics/admissions)
 

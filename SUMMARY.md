@@ -51,6 +51,7 @@
   * [ENABLING AI SERVICES THROUGH OPERATIONALIZATION + SELF-SERVICE ANALYTICS](news-cycle/enabling-ai-services-through-operationalization-+-self-service-analytics.md)
 * [DSOnlineVSBusinessAnalytics](datascienceonlinevsmastersbusinessanalytics/README.md)
   * [Berkeley](datascienceonlinevsmastersbusinessanalytics/berkeley.md)
+  * [Carnegie Mellon](datascienceonlinevsmastersbusinessanalytics/carnegie-mellon.md)
   * [Georgia Tech](datascienceonlinevsmastersbusinessanalytics/georgia-tech.md)
   * [Johns Hopkins University](datascienceonlinevsmastersbusinessanalytics/johns-hopkins-university.md)
   * [Southern Methodist University](datascienceonlinevsmastersbusinessanalytics/southern-methodist-university.md)

@@ -56,6 +56,7 @@
   * [Johns Hopkins University](datascienceonlinevsmastersbusinessanalytics/johns-hopkins-university.md)
   * [Southern Methodist University](datascienceonlinevsmastersbusinessanalytics/southern-methodist-university.md)
   * [Syracuse Universty](datascienceonlinevsmastersbusinessanalytics/syracuse-universty.md)
+  * [University of Denver](datascienceonlinevsmastersbusinessanalytics/university-of-denver.md)
   * [University of Southern California](datascienceonlinevsmastersbusinessanalytics/university-of-southern-california.md)
   * [University of Wisconsin](datascienceonlinevsmastersbusinessanalytics/university-of-wisconsin.md)
 * [Masters of Data Science](masters-of-data-science/README.md)

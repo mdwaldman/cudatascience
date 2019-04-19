@@ -63,6 +63,7 @@
   * [University of Denver](datascienceonlinevsmastersbusinessanalytics/university-of-denver.md)
   * [University of Michigan](datascienceonlinevsmastersbusinessanalytics/university-of-michigan.md)
   * [University of Southern California](datascienceonlinevsmastersbusinessanalytics/university-of-southern-california.md)
+  * [University of Virginia](datascienceonlinevsmastersbusinessanalytics/university-of-virginia.md)
   * [University of Wisconsin](datascienceonlinevsmastersbusinessanalytics/university-of-wisconsin.md)
 * [Masters of Data Science](masters-of-data-science/README.md)
   * [Berkeley MS Data Science Online](masters-of-data-science/berkeley-ms-data-science-online.md)

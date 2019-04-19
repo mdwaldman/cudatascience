@@ -61,6 +61,7 @@
   * [Southern Methodist University](datascienceonlinevsmastersbusinessanalytics/southern-methodist-university.md)
   * [Syracuse Universty](datascienceonlinevsmastersbusinessanalytics/syracuse-universty.md)
   * [University of California, San Diego](datascienceonlinevsmastersbusinessanalytics/university-of-california-san-diego.md)
+  * [University of Illinois at Urbana-Champaign](datascienceonlinevsmastersbusinessanalytics/university-of-illinois-at-urbana-champaign.md)
   * [University of Denver](datascienceonlinevsmastersbusinessanalytics/university-of-denver.md)
   * [University of Michigan](datascienceonlinevsmastersbusinessanalytics/university-of-michigan.md)
   * [University of Southern California](datascienceonlinevsmastersbusinessanalytics/university-of-southern-california.md)

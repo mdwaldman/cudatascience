@@ -54,6 +54,7 @@
   * [Berkeley](datascienceonlinevsmastersbusinessanalytics/berkeley.md)
   * [Carnegie Mellon](datascienceonlinevsmastersbusinessanalytics/carnegie-mellon.md)
   * [Columbia University](datascienceonlinevsmastersbusinessanalytics/columbia-university.md)
+  * [Drexel University](datascienceonlinevsmastersbusinessanalytics/drexel-university.md)
   * [Georgia Tech](datascienceonlinevsmastersbusinessanalytics/georgia-tech.md)
   * [Indiana University](datascienceonlinevsmastersbusinessanalytics/indiana-university.md)
   * [Johns Hopkins University](datascienceonlinevsmastersbusinessanalytics/johns-hopkins-university.md)

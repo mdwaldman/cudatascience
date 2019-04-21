@@ -61,6 +61,7 @@
   * [MIT](datascienceonlinevsmastersbusinessanalytics/mit.md)
   * [Notre Dame](datascienceonlinevsmastersbusinessanalytics/notre-dame.md)
   * [Northwestern](datascienceonlinevsmastersbusinessanalytics/northwestern.md)
+  * [Rochester Institute of Technology](datascienceonlinevsmastersbusinessanalytics/rochester-institute-of-technology.md)
   * [Southern Methodist University](datascienceonlinevsmastersbusinessanalytics/southern-methodist-university.md)
   * [Syracuse Universty](datascienceonlinevsmastersbusinessanalytics/syracuse-universty.md)
   * [University of California, San Diego](datascienceonlinevsmastersbusinessanalytics/university-of-california-san-diego.md)

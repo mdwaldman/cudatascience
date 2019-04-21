@@ -67,6 +67,7 @@
   * [University of Illinois at Urbana-Champaign](datascienceonlinevsmastersbusinessanalytics/university-of-illinois-at-urbana-champaign.md)
   * [University of Denver](datascienceonlinevsmastersbusinessanalytics/university-of-denver.md)
   * [University of Michigan](datascienceonlinevsmastersbusinessanalytics/university-of-michigan.md)
+  * [University of Oklahoma and Oklahoma State University](datascienceonlinevsmastersbusinessanalytics/university-of-oklahoma-and-oklahoma-state-university.md)
   * [University of Southern California](datascienceonlinevsmastersbusinessanalytics/university-of-southern-california.md)
   * [University of Virginia](datascienceonlinevsmastersbusinessanalytics/university-of-virginia.md)
   * [University of Wisconsin](datascienceonlinevsmastersbusinessanalytics/university-of-wisconsin.md)
